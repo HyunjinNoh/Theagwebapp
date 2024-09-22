@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "748628973243",
+    "project_id": "theajouglobe-7338a",
+    "storage_bucket": "theajouglobe-7338a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:748628973243:android:cfa60d9a1db19ff54c3b9e",
+        "android_client_info": {
+          "package_name": "kr.ac.ajou.theajouglobe.news.template.dev"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaGlvMGo9jq2PBAyDRa_X4pieplv7VN0k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
